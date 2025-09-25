@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Hernán Iglesias 👋
 
-<!--
-**ramosiglesiashernan/ramosiglesiashernan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante del Máster en Ingeniería Informática en la **EPI Gijón (Universidad de Oviedo)**  
+🌱 Actualmente aprendiendo programación, ingeniería de software y fundamentos de la informática  
+📫 Contacto: **ramosiglesiashernan@gmail.com**  
+💼 LinkedIn: [Hernán Iglesias Ramos](https://www.linkedin.com/in/hernán-iglesias-ramos)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+Soy estudiante de Máster en Ingeniería Informática con gran motivación por aprender y crecer en el ámbito del desarrollo de software y la tecnología.
+
+---
+
+## 📚 Áreas de interés
+- Ingeniería del software  
+- Desarrollo web  
+- Inteligencia artificial  
+- Ciencia de datos
+
+---
